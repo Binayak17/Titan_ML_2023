@@ -38,4 +38,6 @@ $ streamlit run demo.py
 Cheers,
 Team HackSmiths.
 
+Presentation - https://www.canva.com/design/DAFytqfNVdc/F4vF7cwq7ftP5-yq7FZr7w/view?utm_content=DAFytqfNVdc&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 
